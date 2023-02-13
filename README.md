@@ -45,11 +45,6 @@ If you came here from the LinkedIn, I'm happy to have you.
 </a>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElvinGarcia&repo=Hangman)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="https://github.com/ElvinGarcia/ElvinGarcia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ElvinGarcia&v=2&layout=compact&theme=dark" alt="
-Elvin's WakaTime Stats" />
-</a>
-
 <!--
 
 
