@@ -2,7 +2,7 @@
 If you came here from the LinkedIn, I'm happy to have you. 
 
 -    🔭 Currently available to contribute as part of an organization either remotely or in-house.
--    🌱 Actively learning new technologies including but not limited to Crypto, Machine Learning, A.I and Automation.
+-    🌱 Actively learning new technologies including but not limited to Machine Learning, A.I and Automation.
 -    👯 Also looking to collaborate and participate in code challenges and the advancement of any projects.
 -    💬 Ask me about Computer Programming, Hacking, Electronics and Finances and how mathematics all go hand-in-hand.
 -    📫 How to reach me:
