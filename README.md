@@ -20,17 +20,10 @@ If you came here from the LinkedIn, I'm happy to have you.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="Elvin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Elvin's Top Languages Used" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ElvinGarcia&show_icons=true&theme=dark" alt="Elvin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvinGarcia&layout=compact&theme=dark" alt="Elvin's Top Languages Used" width="48%" />
 </p>
 
-<a href="https://github.com/ElvinGarcia/ElvinGarcia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvinGarcia&hide=ruby&theme=dark" alt="Elvin's Top Languages Used" />
-</a>
-
-<a href="https://github.com/ElvinGarcia/ElvinGarcia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElvinGarcia&count_private=true&show_icons=true&theme=dark" alt="Elvin's GitHub Stats" />
-</a>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElvinGarcia&repo=Hangman)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
