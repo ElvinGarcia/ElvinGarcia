@@ -8,7 +8,7 @@ If you came here from the LinkedIn, I'm happy to have you.
 -    📫 How to reach me:
         - dev@ElvinGarcia.com
         - https://www.linkedin.com/in/elvin-garcia/
--   ⚡ Fun fact: I speak English, Spanish and currently learning Japanese
+
 
 ## 🔧 Technologies and Tools
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
