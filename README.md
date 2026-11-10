@@ -16,12 +16,6 @@ If you came here from the LinkedIn, I'm happy to have you.
 **Backend & DB:** ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  
 **DevOps & Tools:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VisualStudioCode-007ACC?logo=visual-studio-code&logoColor=white)
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElvinGarcia&show_icons=true&theme=dark" alt="Elvin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvinGarcia&layout=compact&theme=dark" alt="Elvin's Top Languages Used" width="48%" />
 </p>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElvinGarcia&repo=Hangman)](https://github.com/anuraghazra/github-readme-stats) -->
